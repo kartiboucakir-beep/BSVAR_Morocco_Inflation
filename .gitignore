@@ -1,0 +1,32 @@
+# Fichiers Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environnements virtuels
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Fichiers de logs
+*.log
+
+# Fichiers système Mac
+.DS_Store
+
+# Fichiers système Windows
+Thumbs.db
+desktop.ini
+
+# Fichiers d'éditeurs (VSCode, etc.)
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Fichiers de données bruts (si jamais tu veux éviter d'uploader des gros fichiers)
+# data/raw/
+*.tmp
